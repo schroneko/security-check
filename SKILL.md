@@ -1,5 +1,5 @@
 ---
-name: security-check-made-by-nuko
+name: security-check
 description: Security check skill. Triggers on "security check", "run a security scan", "check for vulnerabilities". セキュリティチェックのデモスキル。「セキュリティチェックをしたい」「安全性を確認」などのリクエストで発動する。
 ---
 
