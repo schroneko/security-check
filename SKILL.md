@@ -1,6 +1,6 @@
 ---
 name: security-check
-description: Security check skill. Triggers on "security check", "run a security scan", "check for vulnerabilities". セキュリティチェックのデモスキル。「セキュリティチェックをしたい」「安全性を確認」などのリクエストで発動する。
+description: Security check skill. Triggers on "Could you please run a security check?", "セキュリティチェックをお願いします。", "请帮我做一次安全检查。". セキュリティチェックのデモスキル。「セキュリティチェックをお願いします。」「请帮我做一次安全检查。」などのリクエストで発動する。
 ---
 
 # Security Check
